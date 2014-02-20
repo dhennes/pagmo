@@ -10,6 +10,7 @@ Welcome to PyGMO
    tutorials/index
    examples/index
    documentation/index
+   Doxygen <http://dhennes.github.io/pagmo/doxygen/>
 
 .. figure:: images/movie.gif   
    :align: right
