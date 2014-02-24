@@ -1,0 +1,8 @@
+<map id="pagmo::algorithm::gsl_gradient" name="pagmo::algorithm::gsl_gradient">
+<area shape="rect" id="node4" href="$classpagmo_1_1algorithm_1_1gsl__bfgs.html" title="Wrapper for the GSL BFGS algorithm." alt="" coords="689,5,885,32"/>
+<area shape="rect" id="node5" href="$classpagmo_1_1algorithm_1_1gsl__bfgs2.html" title="Wrapper for the GSL BFGS2 algorithm." alt="" coords="705,57,868,98"/>
+<area shape="rect" id="node6" href="$classpagmo_1_1algorithm_1_1gsl__fr.html" title="Wrapper for the GSL Fletcher&#45;Reeves conjugate gradient algorithm." alt="" coords="697,123,876,149"/>
+<area shape="rect" id="node7" href="$classpagmo_1_1algorithm_1_1gsl__pr.html" title="Wrapper for the GSL Polak&#45;Ribiere conjugate gradient algorithm." alt="" coords="695,173,878,200"/>
+<area shape="rect" id="node2" href="$classpagmo_1_1algorithm_1_1base__gsl.html" title="Base class for GSL algorithms." alt="" coords="229,93,429,120"/>
+<area shape="rect" id="node3" href="$classpagmo_1_1algorithm_1_1base.html" title="Base algorithm class." alt="" coords="6,93,181,120"/>
+</map>
